@@ -1,17 +1,26 @@
 {
   "files": {
-    "main.js": "/obio-app/static/js/main.8f9445b2.chunk.js",
-    "main.js.map": "/obio-app/static/js/main.8f9445b2.chunk.js.map",
+    "main.css": "/obio-app/static/css/main.8c14e39b.chunk.css",
+    "main.js": "/obio-app/static/js/main.bc1604c4.chunk.js",
+    "main.js.map": "/obio-app/static/js/main.bc1604c4.chunk.js.map",
     "runtime-main.js": "/obio-app/static/js/runtime-main.bed7f77e.js",
     "runtime-main.js.map": "/obio-app/static/js/runtime-main.bed7f77e.js.map",
-    "static/js/2.a3e1f5a6.chunk.js": "/obio-app/static/js/2.a3e1f5a6.chunk.js",
-    "static/js/2.a3e1f5a6.chunk.js.map": "/obio-app/static/js/2.a3e1f5a6.chunk.js.map",
+    "static/css/2.3ab4f688.chunk.css": "/obio-app/static/css/2.3ab4f688.chunk.css",
+    "static/js/2.d74310dc.chunk.js": "/obio-app/static/js/2.d74310dc.chunk.js",
+    "static/js/2.d74310dc.chunk.js.map": "/obio-app/static/js/2.d74310dc.chunk.js.map",
     "index.html": "/obio-app/index.html",
-    "static/js/2.a3e1f5a6.chunk.js.LICENSE.txt": "/obio-app/static/js/2.a3e1f5a6.chunk.js.LICENSE.txt"
+    "static/css/2.3ab4f688.chunk.css.map": "/obio-app/static/css/2.3ab4f688.chunk.css.map",
+    "static/css/main.8c14e39b.chunk.css.map": "/obio-app/static/css/main.8c14e39b.chunk.css.map",
+    "static/js/2.d74310dc.chunk.js.LICENSE.txt": "/obio-app/static/js/2.d74310dc.chunk.js.LICENSE.txt",
+    "static/media/logo.5478020d.png": "/obio-app/static/media/logo.5478020d.png",
+    "static/media/shopping-bag-solid.64e66944.svg": "/obio-app/static/media/shopping-bag-solid.64e66944.svg",
+    "static/media/user-solid.93b18c33.svg": "/obio-app/static/media/user-solid.93b18c33.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bed7f77e.js",
-    "static/js/2.a3e1f5a6.chunk.js",
-    "static/js/main.8f9445b2.chunk.js"
+    "static/css/2.3ab4f688.chunk.css",
+    "static/js/2.d74310dc.chunk.js",
+    "static/css/main.8c14e39b.chunk.css",
+    "static/js/main.bc1604c4.chunk.js"
   ]
 }
