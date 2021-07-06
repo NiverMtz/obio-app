@@ -81,6 +81,10 @@ body {
   justify-content: space-evenly;
 }
 
+.header {
+  display: none;
+}
+
 @media (min-width: 768px) {
 
   .yaaa {
@@ -97,5 +101,5 @@ body {
     flex-direction: column;
   }
 
-  
+
 }
