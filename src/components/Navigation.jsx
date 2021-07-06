@@ -21,6 +21,9 @@ const Navigation = () => {
             <Link className="link-mobile" to="/login">
                 <img src={user} alt="" />
             </Link>
+            <Link className="link-mobile" to="/login">
+                <img src={user} alt="" />
+            </Link>
           </div>
       </div>
   );

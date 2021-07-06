@@ -24,6 +24,10 @@ const Footer = () => {
                 <img src={user} alt="" />
                 <p>Login</p>
             </Link>
+            <Link className="link-mobile" to="/login">
+                <img src={user} alt="" />
+                <p>Soy Productor</p>
+            </Link>
         </div>
     )
 }

@@ -6,6 +6,7 @@ import Footer from "./components/Footer.jsx";
 import Login from "./components/Login.jsx";
 import Products from "./components/Products.jsx";
 import Bag from "./components/Bag.jsx";
+import Productor from "./components/Productor.jsx";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="/products" component={Products}></Route>
           <Route path="/bag" component={Bag}></Route>
           <Route path="/login" component={Login}></Route>
+          <Route path="/productor" component={Productor}></Route>
         </Switch>
         <Footer></Footer>
       </Router>
