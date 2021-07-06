@@ -23,7 +23,7 @@ body {
 
 .block {
   width: 80%;
-  height: 150px;
+  height: 130px;
   background: var(--yellow);
   text-align: center;
   margin: 0 auto;
@@ -47,8 +47,8 @@ body {
 }
 
 #prod img{
-  width: 100px;
-  height: 100px;
+  width: 70px;
+  height: 70px;
 }
 
 #categ{
@@ -57,8 +57,8 @@ body {
 }
 
 #categ img {
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
 }
 
 #categ .row1,
@@ -76,6 +76,26 @@ body {
 
 #categ .row-a,
 #categ .row-b {
+  padding: .2rem;
   display: flex;
   justify-content: space-evenly;
+}
+
+@media (min-width: 768px) {
+
+  .yaaa {
+    margin-block-start: 120px;
+    margin-block-end: 120px;
+  }
+
+  .block {
+    display: none;
+  } 
+
+  .header {
+    display: flex;
+    flex-direction: column;
+  }
+
+  
 }
