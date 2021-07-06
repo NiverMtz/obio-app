@@ -1,19 +1,13 @@
+@import url(../css/navigation.css);
+@import url(../css/footer.css);
+
 :root {
   --primary1: #757B63;
   --primary2: #D0973C;
   --navbar: #988776;
+  --body: #BD9A5F;
 }
 
-.navigation-setting {
-  width: 100%;
-  height: 80px;
-  background-color: var(--navbar);
-}
-
-.logo-size {
-  width: 60px;
-}
-
-.icon-size {
-  width: 25px;
+body {
+  background: var(--body);
 }

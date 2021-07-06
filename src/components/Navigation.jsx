@@ -5,24 +5,16 @@ import bag from "../img/shopping-bag-solid.svg";
 
 const Navigation = () => {
   return (
-      <div className="navigation-setting navbar">
-        <div className="container-fluid">
-            <div>
-                <img  className="logo-size" src={logo} alt="" />
-            </div>
-          <form className="d-grid gap-2 col-4 mx-auto mt-2">
-            <input
-              className="form-control me-2"
-              type="search"
-              placeholder="Buscar productos, categorías y más.."
-              aria-label="Search"
-            />
+      <div className="navigation">
+          <img src={logo} alt="" />
+          <form action="">  
+            <input type="text" name="" id="" placeholder="Buscar productos..." />
+            <button type="submit" name="" id="" />
           </form>
-          <div className="d-flex gap-4">
-                <img  className="icon-size" src={bag} alt="" />
-                <img  className="icon-size" src={user} alt="" />
-            </div>
-        </div>
+          <div className="navigation-action">
+              <img src={bag} alt="" />
+              <img src={user} alt="" />
+          </div>
       </div>
   );
 };
