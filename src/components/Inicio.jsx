@@ -3,7 +3,7 @@ import { Fragment } from 'react-is';
 
 const Inicio = () => {
     return (
-        <div>
+        <div className="yaaa">
             <div className="block"></div>
             <div className="block"></div>
             <div className="block"></div>

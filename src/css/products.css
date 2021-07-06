@@ -1,0 +1,33 @@
+.products-card {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+    width: 85%;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 10px;
+    margin-block-start: 30px;
+    margin-block-end: 30px;
+}
+.products-image {
+    padding: 2.5rem;
+    border-bottom: 1px solid var(--primary2);
+}
+
+.products-image img{
+    width: 100px;
+    height: 100px;
+}
+
+.products-description {
+    padding: 1.5rem;
+}
+
+.products-description button {
+    width: 10rem;
+    height: 3rem;
+    border: none;
+    border-radius: 1rem;
+    background-color: var(--yellow);
+}

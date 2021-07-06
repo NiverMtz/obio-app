@@ -15,8 +15,10 @@ const Navigation = () => {
             <button type="submit" name="" id="" />
           </form>
           <div className="navigation-action">
-              <img src={bag} alt="" />
-              <Link to="/login">
+            <Link className="link-mobile" to="/bag">
+                <img src={bag} alt="" />
+            </Link>
+            <Link className="link-mobile" to="/login">
                 <img src={user} alt="" />
             </Link>
           </div>

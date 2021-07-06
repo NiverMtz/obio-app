@@ -1,15 +1,23 @@
 @import url(../css/navigation.css);
 @import url(../css/footer.css);
+@import url(../css/products.css);
 
 :root {
   --primary1: #757B63;
   --primary2: #D0973C;
   --navbar: #988776;
   --body: #BD9A5F;
+  --yellow: #FCAF1A;
 }
 
 body {
   background: var(--body);
+  margin:0;
+}
+
+.yaaa {
+  margin-block-start: 81px;
+  margin-block-end: 81px;
 }
 
 .block {

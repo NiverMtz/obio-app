@@ -4,6 +4,8 @@ import Inicio from "./components/Inicio.jsx";
 import Navigation from "./components/Navigation.jsx";
 import Footer from "./components/Footer.jsx";
 import Login from "./components/Login.jsx";
+import Products from "./components/Products.jsx";
+import Bag from "./components/Bag.jsx";
 
 function App() {
   return (
@@ -12,6 +14,8 @@ function App() {
         <Navigation></Navigation>
         <Switch>
           <Route exact path="/" component={Inicio}></Route>
+          <Route path="/products" component={Products}></Route>
+          <Route path="/bag" component={Bag}></Route>
           <Route path="/login" component={Login}></Route>
         </Switch>
         <Footer></Footer>
