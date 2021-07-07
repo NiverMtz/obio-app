@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/obio-app/static/css/main.6663dad3.chunk.css",
-    "main.js": "/obio-app/static/js/main.1b0936ff.chunk.js",
-    "main.js.map": "/obio-app/static/js/main.1b0936ff.chunk.js.map",
+    "main.css": "/obio-app/static/css/main.beceb855.chunk.css",
+    "main.js": "/obio-app/static/js/main.35592996.chunk.js",
+    "main.js.map": "/obio-app/static/js/main.35592996.chunk.js.map",
     "runtime-main.js": "/obio-app/static/js/runtime-main.bed7f77e.js",
     "runtime-main.js.map": "/obio-app/static/js/runtime-main.bed7f77e.js.map",
     "static/css/2.3ab4f688.chunk.css": "/obio-app/static/css/2.3ab4f688.chunk.css",
-    "static/js/2.953a15bf.chunk.js": "/obio-app/static/js/2.953a15bf.chunk.js",
-    "static/js/2.953a15bf.chunk.js.map": "/obio-app/static/js/2.953a15bf.chunk.js.map",
+    "static/js/2.9f8c7911.chunk.js": "/obio-app/static/js/2.9f8c7911.chunk.js",
+    "static/js/2.9f8c7911.chunk.js.map": "/obio-app/static/js/2.9f8c7911.chunk.js.map",
     "index.html": "/obio-app/index.html",
     "static/css/2.3ab4f688.chunk.css.map": "/obio-app/static/css/2.3ab4f688.chunk.css.map",
-    "static/css/main.6663dad3.chunk.css.map": "/obio-app/static/css/main.6663dad3.chunk.css.map",
-    "static/js/2.953a15bf.chunk.js.LICENSE.txt": "/obio-app/static/js/2.953a15bf.chunk.js.LICENSE.txt",
-    "static/media/logo.5478020d.png": "/obio-app/static/media/logo.5478020d.png",
+    "static/css/main.beceb855.chunk.css.map": "/obio-app/static/css/main.beceb855.chunk.css.map",
+    "static/js/2.9f8c7911.chunk.js.LICENSE.txt": "/obio-app/static/js/2.9f8c7911.chunk.js.LICENSE.txt",
+    "static/media/facebook.ce9f1ab1.svg": "/obio-app/static/media/facebook.ce9f1ab1.svg",
+    "static/media/google.05f6bde9.svg": "/obio-app/static/media/google.05f6bde9.svg",
+    "static/media/logo.db949e2b.png": "/obio-app/static/media/logo.db949e2b.png",
     "static/media/user-solid.93b18c33.svg": "/obio-app/static/media/user-solid.93b18c33.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bed7f77e.js",
     "static/css/2.3ab4f688.chunk.css",
-    "static/js/2.953a15bf.chunk.js",
-    "static/css/main.6663dad3.chunk.css",
-    "static/js/main.1b0936ff.chunk.js"
+    "static/js/2.9f8c7911.chunk.js",
+    "static/css/main.beceb855.chunk.css",
+    "static/js/main.35592996.chunk.js"
   ]
 }
