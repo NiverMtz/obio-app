@@ -1,4 +1,11 @@
 @import url(../css/home.css);
+@import url(../css/login.css);
+
+:root {
+    --primary: #D0973C;
+    --white: white;
+}
+
 
 body {
     color: black;

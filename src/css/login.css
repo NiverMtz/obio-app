@@ -1,0 +1,48 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    padding-inline-start: 24px;
+    padding-inline-end: 24px;
+}
+
+.container > img {
+    height: 200px;
+    margin-block-end: 5rem;
+    margin-block-start: 3rem;
+}
+
+.container .buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    width: 100%;
+}
+
+.container .link {
+    width: 100%;
+    text-decoration: none;
+}
+
+
+.container .link img {
+    width: 20px;
+    height: 20px;
+    margin-inline-end: .5rem;
+}
+
+.container button {
+    height: 48px;
+    width: 100%;
+    border-radius: 8px;
+    border: 1px solid var(--primary);
+    background: none;
+    color: var(--primary);
+}
+
+button.is-secondary {
+    background: var(--primary);
+    color: var(--white);
+}
