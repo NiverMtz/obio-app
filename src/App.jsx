@@ -5,6 +5,7 @@ import Home from "./components/Home.jsx";
 function App() {
   return (
     <React.Fragment>
+      <Home></Home>
       <Router>
         <Switch>
           <Route exact path="/" component={Home}></Route> 
