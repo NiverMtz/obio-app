@@ -1,0 +1,26 @@
+.location-bar {
+    width: 100%;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    position: sticky;
+    top: 1rem;
+    border: 1px solid #C1C7CD;
+    background-color: var(--white);
+    border-radius: 60px;
+    padding-inline-start: 20px;
+}
+
+.location-bar img {
+    width: 16px;
+    height: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+.location-bar p {
+    padding: 0;
+    margin: 0;
+    color: #C1C7CD;
+}

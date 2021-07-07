@@ -1,5 +1,10 @@
 @import url(../css/home.css);
 @import url(../css/login.css);
+@import url(../css/header.css);
+@import url(../css/button.css);
+@import url(../css/wrapper.css);
+@import url(../css/location-bar.css);
+@import url(../css/bottom-navbar.css);
 
 :root {
     --primary: #D0973C;

@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import logo from "../img/logo.png";
 import google from "../img/google.svg";
 import facebook from "../img/facebook.svg";
+import Button from "../components/Button"
 
 const Login = () => {
   return (
@@ -20,12 +21,8 @@ const Login = () => {
               <img src={facebook} alt="" />Continua con Facebook
           </button>
         </Link>
-        <Link className="link" to="/home">
-          <button className="is-secondary">Registrate gratis</button>
-        </Link>
-        <Link className="link" to="/home">
-          <button>Iniciar sesión</button>
-        </Link>
+        <Button type="2"></Button>
+        <Button type="1"></Button>
         </div>
       </div>
     </div>
