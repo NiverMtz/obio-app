@@ -1,12 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import Inicio from "./components/Inicio.jsx";
-import Navigation from "./components/Navigation.jsx";
-import Footer from "./components/Footer.jsx";
-import Login from "./components/Login.jsx";
-import Products from "./components/Products.jsx";
-import Bag from "./components/Bag.jsx";
-import Productor from "./components/Productor.jsx";
+import Home from "./components/Inicio.jsx";
 
 function App() {
   return (
@@ -14,11 +8,7 @@ function App() {
       <Router>
         <Navigation></Navigation>
         <Switch>
-          <Route exact path="/" component={Inicio}></Route>
-          <Route path="/products" component={Products}></Route>
-          <Route path="/bag" component={Bag}></Route>
-          <Route path="/login" component={Login}></Route>
-          <Route path="/productor" component={Productor}></Route>
+          <Route exact path="/" component={Home}></Route>
         </Switch>
         <Footer></Footer>
       </Router>
