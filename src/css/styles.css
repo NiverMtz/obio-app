@@ -5,6 +5,7 @@
 @import url(../css/wrapper.css);
 @import url(../css/location-bar.css);
 @import url(../css/bottom-navbar.css);
+@import url(../css/orden.css);
 
 :root {
     --primary: #D0973C;

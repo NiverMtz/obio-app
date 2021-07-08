@@ -1,7 +1,6 @@
 import React from "react";
 import Header from "../components/Header.jsx";
 import BottomNavigationBar from "../components/BottomNavigationBar";
-import iconloc from "../img/Icon-location.png";
 
 const Home = () => {
   return (

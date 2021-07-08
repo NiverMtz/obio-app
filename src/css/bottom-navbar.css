@@ -16,6 +16,9 @@
     text-decoration: none;
     color: #878D96;
 }
+.navbar-link:first-child {
+    color: #D0973C;
+}
 
 .navbar-link img {
     width: 21px;
