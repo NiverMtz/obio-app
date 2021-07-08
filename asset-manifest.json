@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/obio-app/static/css/main.fb4aaa17.chunk.css",
-    "main.js": "/obio-app/static/js/main.db8daec2.chunk.js",
-    "main.js.map": "/obio-app/static/js/main.db8daec2.chunk.js.map",
+    "main.css": "/obio-app/static/css/main.e7cc0996.chunk.css",
+    "main.js": "/obio-app/static/js/main.428c7d5e.chunk.js",
+    "main.js.map": "/obio-app/static/js/main.428c7d5e.chunk.js.map",
     "runtime-main.js": "/obio-app/static/js/runtime-main.bed7f77e.js",
     "runtime-main.js.map": "/obio-app/static/js/runtime-main.bed7f77e.js.map",
     "static/css/2.3ab4f688.chunk.css": "/obio-app/static/css/2.3ab4f688.chunk.css",
-    "static/js/2.9f8c7911.chunk.js": "/obio-app/static/js/2.9f8c7911.chunk.js",
-    "static/js/2.9f8c7911.chunk.js.map": "/obio-app/static/js/2.9f8c7911.chunk.js.map",
+    "static/js/2.f54c4c53.chunk.js": "/obio-app/static/js/2.f54c4c53.chunk.js",
+    "static/js/2.f54c4c53.chunk.js.map": "/obio-app/static/js/2.f54c4c53.chunk.js.map",
     "index.html": "/obio-app/index.html",
     "static/css/2.3ab4f688.chunk.css.map": "/obio-app/static/css/2.3ab4f688.chunk.css.map",
-    "static/css/main.fb4aaa17.chunk.css.map": "/obio-app/static/css/main.fb4aaa17.chunk.css.map",
-    "static/js/2.9f8c7911.chunk.js.LICENSE.txt": "/obio-app/static/js/2.9f8c7911.chunk.js.LICENSE.txt",
+    "static/css/main.e7cc0996.chunk.css.map": "/obio-app/static/css/main.e7cc0996.chunk.css.map",
+    "static/js/2.f54c4c53.chunk.js.LICENSE.txt": "/obio-app/static/js/2.f54c4c53.chunk.js.LICENSE.txt",
+    "static/media/Icon-bolsa.e090e66b.svg": "/obio-app/static/media/Icon-bolsa.e090e66b.svg",
+    "static/media/Icon-home.e0a4d08a.svg": "/obio-app/static/media/Icon-home.e0a4d08a.svg",
+    "static/media/Icon-lupa.1bbedfac.svg": "/obio-app/static/media/Icon-lupa.1bbedfac.svg",
     "static/media/facebook.ce9f1ab1.svg": "/obio-app/static/media/facebook.ce9f1ab1.svg",
     "static/media/google.05f6bde9.svg": "/obio-app/static/media/google.05f6bde9.svg",
     "static/media/logo.db949e2b.png": "/obio-app/static/media/logo.db949e2b.png",
@@ -20,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.bed7f77e.js",
     "static/css/2.3ab4f688.chunk.css",
-    "static/js/2.9f8c7911.chunk.js",
-    "static/css/main.fb4aaa17.chunk.css",
-    "static/js/main.db8daec2.chunk.js"
+    "static/js/2.f54c4c53.chunk.js",
+    "static/css/main.e7cc0996.chunk.css",
+    "static/js/main.428c7d5e.chunk.js"
   ]
 }
